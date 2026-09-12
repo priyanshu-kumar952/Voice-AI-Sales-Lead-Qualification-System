@@ -1,10 +1,4 @@
-Ah, yes — **this is the Voice AI Sales & Lead Qualification System**. I’ve reviewed the full 13-page document, including the architecture diagram, tech-stack tables, build status, production roadmap, and constraints. 
 
-This one should be presented differently from the Medico project because **it is currently an architecture/design + incremental implementation project, not a deployed finished product**. The README should make that distinction very clear while still showing the technical depth.
-
-Here is a polished, **copy-paste-ready GitHub README**:
-
-````markdown
 # ☎️ Voice AI Sales & Lead Qualification System
 
 > An automated voice AI sales pipeline designed for high-volume real estate lead intake, inventory qualification, live escalation, and post-call automation.
@@ -940,13 +934,3 @@ No license has been specified yet.
 
 Until a `LICENSE` file is added, all rights are reserved by the author.
 
-```
-
-### One important change I made
-
-I **did not present this as a completed Voice AI product**. The source explicitly says the architecture is complete but implementation is still in progress, with the telephony layer currently blocked by business KYC. :contentReference[oaicite:1]{index=1}
-
-That actually makes the README stronger for a technical evaluator: it demonstrates that you understand **how to architect the system**, while being transparent about what has and hasn't been built.
-
-The source's production roadmap also identifies observability, HA/fallbacks, queues, admin tooling, cost monitoring, PII protection, and load testing as remaining work. :contentReference[oaicite:2]{index=2}
-```
