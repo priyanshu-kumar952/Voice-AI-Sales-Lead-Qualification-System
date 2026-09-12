@@ -73,7 +73,7 @@ The system is intended to support buyer filtering based on:
 - RERA status
 - Loan approval
 
-> **Privacy note:** Business-specific financial figures should be generalized or removed before public deployment of this repository if the client has not explicitly approved their publication.
+> **Privacy note:** Business-specific financial figures are generalised. 
 
 ---
 
